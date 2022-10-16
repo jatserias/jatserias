@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I am a passionate software engineer, interested in Machine Learning, Natural Language Processing, Information Retrieval, Big data and scalability. Always moving around the grey area between Software Engineer and Applied Scientist.
+
+You can find more information about me at https://jordi.atserias.cat
+
+
 <!--
 **jatserias/jatserias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
